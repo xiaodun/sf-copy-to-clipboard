@@ -1,0 +1,20 @@
+{
+  "name": "sf-copy-to-clipboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copyToClipboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaodun/sf-copy-to-clipboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaodun/sf-copy-to-clipboard/issues"
+  },
+  "homepage": "https://github.com/xiaodun/sf-copy-to-clipboard#readme"
+}
