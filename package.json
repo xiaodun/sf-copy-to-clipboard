@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xiaodun/sf-copy-to-clipboard/issues"
   },
-  "homepage": "https://github.com/xiaodun/sf-copy-to-clipboard#readme"
+  "homepage": "https://github.com/xiaodun/sf-copy-to-clipboard#readme",
+  "devDependencies": {
+    "iconv-lite": "^0.6.3"
+  }
 }
